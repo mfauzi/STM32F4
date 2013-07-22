@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.4 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=LEDs_ON.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\LEDs_ON -TC:\CooCox\CoIDE\configuration\ProgramData\LEDs_ON/arm-gcc-link.ld -g">
+      <target file="LEDs_ON.elf" lastModified="13fe2196c8f">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="13fd33da664"/>
+         <source file="..\obj\main.o" lastModified="13fe2196abb"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="13fd33da79c"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="13fd33da7f9"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="13fd33da828"/>
+      </target>
+   </processor>
+</history>

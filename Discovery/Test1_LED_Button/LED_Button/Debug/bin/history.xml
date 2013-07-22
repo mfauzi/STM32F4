@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.4 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=LED_Button.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\LED_Button -TC:\CooCox\CoIDE\configuration\ProgramData\LED_Button/arm-gcc-link.ld -g">
+      <target file="LED_Button.elf" lastModified="13fe729734a">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="13fe726abd9"/>
+         <source file="..\obj\main.o" lastModified="13fe7297167"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="13fe726ac85"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="13fe726acd3"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="13fe726ad01"/>
+      </target>
+   </processor>
+</history>

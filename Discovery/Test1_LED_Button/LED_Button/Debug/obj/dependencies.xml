@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\Test1_LED_Button\cmsis_lib\include /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\Test1_LED_Button\cmsis_boot /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\Test1_LED_Button /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\Test1_LED_Button\cmsis /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\Test1_LED_Button\cmsis_lib">
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="13fcde9a3f9">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="13fcde9a881">
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="13fcde9a8a9">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13fcde9a449">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13fcde9a449">
+      </source>
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="13fcde9a881">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="13fcde9a48f">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="13fcde9a4cb">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13fcde9a48f">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="13fcde9a881">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="13fcde9fe2b">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx.h" lastModified="13fcde9a83b">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f4xx_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13fcde9a4cb">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\cmsis_lib /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\cmsis_boot /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\cmsis_lib\include /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery\cmsis /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\STM32F4-Discovery /I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics">
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="13fcde9a3f9">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13fcde9a449">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13fcde9a449">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="13fcde9a48f">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="13fcde9a4cb">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="13fcde9a48f">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13fcde9a4cb">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+   </includePath>
+</dependencies>

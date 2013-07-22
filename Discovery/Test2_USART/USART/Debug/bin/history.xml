@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.4 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=USART.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\USART -TC:\CooCox\CoIDE\configuration\ProgramData\USART/arm-gcc-link.ld -g">
+      <target file="USART.elf" lastModified="14005f14de2">
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="14005ee958e"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="14005c60512"/>
+         <source file="..\obj\main.o" lastModified="14005f14bdf"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="14005ee963a"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="14005ee9688"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14005ee96b6"/>
+      </target>
+   </processor>
+</history>
