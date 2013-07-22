@@ -1,0 +1,36 @@
+ ====    HASH Using DMA Example    ====
+ ======================================
+ ---------------------------------------
+ Text to be Hashed (2048 bits):
+ ---------------------------------------
+The STM32 F4 series is the resul
+t of a perfect symbiosis of the
+ real-time control capabilities
+ of an MCU and the signal proce
+ssing performance of a DSP, and
+ thus complements the STM32 por
+tfolio with a new class of devi
+ces, digital signal controllers
+ (DSC).
+ ---------------------------------------
+ SHA224 Message Digest (224 bits):
+ ---------------------------------------
+ H0 = [0x0f74438f]  
+ H1 = [0x7d8f5c68]  
+ H2 = [0x54e585e0]  
+ H3 = [0xe79d574c]  
+ H4 = [0x0dd7fc0b]  
+ H5 = [0xfc76cc94]  
+ H6 = [0xd9dab8aa] 
+
+ ---------------------------------------
+ SHA256 Message Digest (256 bits):
+ ---------------------------------------
+ H0 = [0xd0551637]  
+ H1 = [0x4c131117]  
+ H2 = [0x4493573c]  
+ H3 = [0xa59a5408]  
+ H4 = [0x6b2e45ea]  
+ H5 = [0x82028e6a]  
+ H6 = [0x18e6c540]  
+ H7 = [0xf745a9b0]  
