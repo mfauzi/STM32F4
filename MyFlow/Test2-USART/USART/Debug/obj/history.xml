@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <history>
-   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\MyFlow\Test2-USART\cmsis_lib -I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\MyFlow\Test2-USART\cmsis -I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\MyFlow\Test2-USART\cmsis_boot -I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\MyFlow\Test2-USART -I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\MyFlow -I..\..\..\..\..\Users\mfauzi\Documents\STMicroelectronics\MyFlow\Test2-USART\cmsis_lib\include">
-      <target file="stm32f4xx_rcc.o" lastModified="140060d54f4">
-         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="13fe2b80866"/>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test2-USART\cmsis_boot -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test2-USART\cmsis_lib -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test2-USART\cmsis_lib\include -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test2-USART\cmsis -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test2-USART">
+      <target file="stm32f4xx_rcc.o" lastModified="140266b586a">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="140069f559d"/>
       </target>
-      <target file="system_stm32f4xx.o" lastModified="140060d557c">
-         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="140060a486b"/>
+      <target file="system_stm32f4xx.o" lastModified="140266b58f6">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="140266b552f"/>
       </target>
-      <target file="stm32f4xx_gpio.o" lastModified="140060d553f">
-         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="13fe2b824e1"/>
+      <target file="stm32f4xx_gpio.o" lastModified="140266b58b8">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="140069f559b"/>
       </target>
-      <target file="main.o" lastModified="140060d5496">
-         <source file="..\..\..\main.c" lastModified="140060763a9"/>
+      <target file="main.o" lastModified="140266b580c">
+         <source file="..\..\..\main.c" lastModified="140069f55a0"/>
       </target>
-      <target file="stm32f4xx_usart.o" lastModified="140060d5454">
-         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="13fe2b80833"/>
+      <target file="stm32f4xx_usart.o" lastModified="140266b57ce">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="140069f559f"/>
       </target>
-      <target file="startup_stm32f4xx.o" lastModified="13fe2c350cf">
-         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="13fe2b80839"/>
+      <target file="startup_stm32f4xx.o" lastModified="140266a8a14">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="140069f5587"/>
       </target>
    </processor>
 </history>

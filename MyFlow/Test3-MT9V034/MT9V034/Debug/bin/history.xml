@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.4 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=MT9V034.map -O0 --gc-sections -lm -lgcc -lc -LC:\CooCox\CoIDE\configuration\ProgramData\MT9V034 -TC:\CooCox\CoIDE\configuration\ProgramData\MT9V034/arm-gcc-link.ld -g">
+      <target file="MT9V034.elf" lastModified="14082d0575c">
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="1407803f664"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="1407803f68c"/>
+         <source file="..\obj\main.o" lastModified="14082d05569"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="1407803f768"/>
+         <source file="..\obj\stm32f4xx_dcmi.o" lastModified="1407803f7ae"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="1407803f7fe"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="1407803f844"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="1407803f894"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="1407803f8ee"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="1407803f9a2"/>
+      </target>
+   </processor>
+</history>

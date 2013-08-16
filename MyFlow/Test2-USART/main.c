@@ -1,18 +1,3 @@
-/**
-  *****************************************************************************
-  * @title   main.c
-  * @author  Fauzi
-  * @date    12 July 2013
-  * @brief   Turn on all LEDs in PX4Flow
-  *
-  *          PE3 (Blue), PE2 (Amber) and PE7 (Red) are configured in output push pull mode, turn ON.
-  *           - Set PD12, PD13, PD14 and PD15 by setting corresponding bits in BSRRL register
-  *           - Reset PD12, PD13, PD14 and PD15  by setting corresponding bits in BSRRH register
-  *
-  *******************************************************************************
-  **/
-
-
 #include <stm32f4xx_gpio.h>
 #include <stm32f4xx_rcc.h>
 #include <stm32f4xx_usart.h>

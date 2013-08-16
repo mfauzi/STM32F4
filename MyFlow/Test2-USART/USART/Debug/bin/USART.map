@@ -457,27 +457,27 @@ OUTPUT(USART.elf elf32-littlearm)
  .debug_ranges  0x00000298       0x78 ..\obj\stm32f4xx_gpio.o
  .debug_ranges  0x00000310       0x20 ..\obj\system_stm32f4xx.o
 
-.debug_line     0x00000000     0x1375
- .debug_line    0x00000000      0x4d7 ..\obj\stm32f4xx_usart.o
- .debug_line    0x000004d7       0xb9 ..\obj\startup_stm32f4xx.o
- .debug_line    0x00000590      0x2b9 ..\obj\main.o
- .debug_line    0x00000849      0x5ce ..\obj\stm32f4xx_rcc.o
- .debug_line    0x00000e17      0x372 ..\obj\stm32f4xx_gpio.o
- .debug_line    0x00001189      0x1ec ..\obj\system_stm32f4xx.o
+.debug_line     0x00000000     0x1329
+ .debug_line    0x00000000      0x4c7 ..\obj\stm32f4xx_usart.o
+ .debug_line    0x000004c7       0xb5 ..\obj\startup_stm32f4xx.o
+ .debug_line    0x0000057c      0x2a9 ..\obj\main.o
+ .debug_line    0x00000825      0x5be ..\obj\stm32f4xx_rcc.o
+ .debug_line    0x00000de3      0x362 ..\obj\stm32f4xx_gpio.o
+ .debug_line    0x00001145      0x1e4 ..\obj\system_stm32f4xx.o
 
-.debug_str      0x00000000     0x11ba
- .debug_str     0x00000000      0x5e9 ..\obj\stm32f4xx_usart.o
-                                0x64a (size before relaxing)
- .debug_str     0x000005e9       0xc8 ..\obj\startup_stm32f4xx.o
-                                0x12c (size before relaxing)
- .debug_str     0x000006b1      0x223 ..\obj\main.o
-                                0x40e (size before relaxing)
- .debug_str     0x000008d4      0x5fb ..\obj\stm32f4xx_rcc.o
-                                0x80b (size before relaxing)
- .debug_str     0x00000ecf      0x1bb ..\obj\stm32f4xx_gpio.o
-                                0x45e (size before relaxing)
- .debug_str     0x0000108a      0x130 ..\obj\system_stm32f4xx.o
-                                0x365 (size before relaxing)
+.debug_str      0x00000000     0x11a2
+ .debug_str     0x00000000      0x5e5 ..\obj\stm32f4xx_usart.o
+                                0x646 (size before relaxing)
+ .debug_str     0x000005e5       0xc4 ..\obj\startup_stm32f4xx.o
+                                0x128 (size before relaxing)
+ .debug_str     0x000006a9      0x21f ..\obj\main.o
+                                0x40a (size before relaxing)
+ .debug_str     0x000008c8      0x5f7 ..\obj\stm32f4xx_rcc.o
+                                0x807 (size before relaxing)
+ .debug_str     0x00000ebf      0x1b7 ..\obj\stm32f4xx_gpio.o
+                                0x45a (size before relaxing)
+ .debug_str     0x00001076      0x12c ..\obj\system_stm32f4xx.o
+                                0x361 (size before relaxing)
 
 .comment        0x00000000       0x70
  .comment       0x00000000       0x70 ..\obj\stm32f4xx_usart.o

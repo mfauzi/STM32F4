@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 4.4.0 mingw32 -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test3-MT9V034 -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test3-MT9V034\cmsis_lib\include -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test3-MT9V034\cmsis -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test3-MT9V034\cmsis_lib -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow\Test3-MT9V034\cmsis_boot -I..\..\..\..\..\Users\mfauzi\Documents\GitHub\STM32F4\MyFlow">
+      <target file="stm32f4xx_gpio.o" lastModified="1407803f7fe">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="14026c74350"/>
+      </target>
+      <target file="stm32f4xx_dma.o" lastModified="1407803f894">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_dma.c" lastModified="14026c76580"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="1407803f9a2">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="14026c759b4"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="1407803f844">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="14026c8ee82"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="1407803f68c">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="1404e1029d7"/>
+      </target>
+      <target file="stm32f4xx_i2c.o" lastModified="1407803f8ee">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="14026c776f6"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="1407803f664">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="14026c74c1c"/>
+      </target>
+      <target file="main.o" lastModified="14082d05569">
+         <source file="..\..\..\main.c" lastModified="14082d05337"/>
+      </target>
+      <target file="stm32f4xx_dcmi.o" lastModified="1407803f7ae">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_dcmi.c" lastModified="14026c7418e"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="1407803f768">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="14026c7433c"/>
+      </target>
+   </processor>
+</history>
